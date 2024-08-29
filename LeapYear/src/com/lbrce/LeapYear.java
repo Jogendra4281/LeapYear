@@ -6,11 +6,19 @@ public class LeapYear {
 		// TODO Auto-generated method stub
 		System.out.println("HELLO WORLD!!!......");
 	}
-public class LeapYear2{
+}
+class LeapYear2{
 
-	public static void main(String[] args) {
+	public static void f() {
 		// TODO Auto-generated method stub
 		System.out.println("JOS");
 	}
-
 }
+class LeapYear3{
+
+		public static void f()  {
+			// TODO Auto-generated method stub
+			System.out.println("JO :) **** :)");
+		}
+
+	}
